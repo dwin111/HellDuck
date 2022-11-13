@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea36668d02e354243a5e358bd4789fe8, type: 3}
+  m_Name: "\u0421abbage"
+  m_EditorClassIdentifier: 
+  Perfab: {fileID: 7209677195428813854, guid: 7007da1aa774c3a4e81b884c61251379, type: 3}
+  Name: 2
+  Count: 0
